@@ -19,7 +19,7 @@ scikit-learn>=1.0.0
 
 # File Handling
 python-multipart==0.0.6
-openpyxl==3.11.0
+openpyxl>=3.1.2,<3.2
 python-docx==0.8.11
 
 # Authentication & Security
